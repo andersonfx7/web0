@@ -134,7 +134,7 @@ body{
     background-image: linear-gradient(
         rgba(0, 132, 255, 0.432), 
         rgba(0, 132, 255, 0.432)
-      ),url(/assets/img/imagen1.jpg);
+      ),url(../assets/img/imagen1.jpg);
     
 
     background-position: center;
@@ -206,7 +206,7 @@ body{
     margin-top:10px;
 }
 footer{
-    background-image:url(/assets/img/imagen-flexbox-min.png);
+    background-image:url(../assets/img/imagen-flexbox-min.png);
     background-position:center;
     background-size: cover;
 }
